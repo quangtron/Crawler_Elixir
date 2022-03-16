@@ -19,3 +19,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/crawler](https://hexdocs.pm/crawler).
 
+run project: 
+  iex -S mix
+  BlogSpider.main()
+
